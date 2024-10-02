@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e273ef18-c816-47ba-8066-aad77fc06705" name="Changes" comment="INIT">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
-    </list>
+    <list default="true" id="e273ef18-c816-47ba-8066-aad77fc06705" name="Changes" comment="INIT" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +42,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Reverting in main",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
@@ -78,13 +71,38 @@
       <option name="project" value="LOCAL" />
       <updated>1727856780703</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="INIT">
+      <option name="closed" value="true" />
+      <created>1727857006813</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727857006813</updated>
+    </task>
+    <task id="LOCAL-00004" summary="INIT">
+      <option name="closed" value="true" />
+      <created>1727857120890</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727857120890</updated>
+    </task>
+    <task id="LOCAL-00005" summary="INIT">
+      <option name="closed" value="true" />
+      <created>1727857222226</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727857222226</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="OPEN_GENERIC_TABS">
       <map>
         <entry key="12f0b57b-3376-47dc-9456-45e4c57e627c" value="TOOL_WINDOW" />
+        <entry key="204413ab-02cf-41b8-b487-82856fe4a813" value="TOOL_WINDOW" />
       </map>
     </option>
     <option name="RECENT_FILTERS">
@@ -105,6 +123,11 @@
     <option name="TAB_STATES">
       <map>
         <entry key="12f0b57b-3376-47dc-9456-45e4c57e627c">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="204413ab-02cf-41b8-b487-82856fe4a813">
           <value>
             <State />
           </value>
